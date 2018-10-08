@@ -1,12 +1,12 @@
 class Dog
-  def name=(name)
-    dog_name = name
+  def name=(dname)
+    dog_name = dname
   end
   def name
     puts name
   end
-  def breed=(breed)
-    dog_breed = breed
+  def breed=(dbreed)
+    dog_breed = dbreed
   end
   def breed
     puts dog_breed
