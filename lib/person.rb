@@ -6,9 +6,9 @@ class Person
     return @name
   end
   def job=(job)
-    @breed = breed
+    @job = job
   end
-  def breed
-    return @breed
+  def job
+    return @job
   end
 end
