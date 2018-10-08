@@ -3,7 +3,7 @@ class Dog
     @name = name
   end
   def name
-    puts @name
+    return @name
   end
   def breed=(dreed)
     @breed = breed
