@@ -5,7 +5,7 @@ class Person
   def name
     return @name
   end
-  def breed=(breed)
+  def job=(job)
     @breed = breed
   end
   def breed
